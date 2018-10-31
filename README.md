@@ -13,3 +13,6 @@
 
 !wbh ui 若しくは /8 wbh ui
 で簡易的な表を出してくれます
+
+後はmodule.jsonの
+  "disableAutoUpdate": はtrueにしてないと勝手に上書きされますん
